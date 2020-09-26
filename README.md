@@ -11,5 +11,7 @@ Open a terminal inside the projects directory and do the following commands:
 ## Live demo
 https://moniquelc.github.io/star-wars-app
 
+OBS: Unfortulately The Star Wars API´s services are currently down. More info at https://swapi.dev/about .
+
 ## Screenshot
 ![star-wars](https://user-images.githubusercontent.com/44783393/70231599-eda91c80-175a-11ea-8558-06903f8955a2.png)
